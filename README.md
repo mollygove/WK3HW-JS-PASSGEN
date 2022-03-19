@@ -10,7 +10,7 @@ The password can include special characters. OWASP Foundation
 
 User clicks button to generate a password.
 
-After clicking, user is prompted with questions regarding a. criteria & b. options for password:
+After clicking, user is prompted with questions regarding criteria for password:
 
 Criteria:
 Must be between 8 and 128 characters long
@@ -19,6 +19,7 @@ numbers
 lower case letter
 upper case letter
 and/or special character
+
 Options:
 User chooses length of PW within the criteria
 User can choose which/some/or all of the PW character choices: (must include at least 1 option per criteria above)
@@ -26,9 +27,8 @@ numbers
 lower case letter
 upper case letter
 special character
-Upon answering the prompts the password will generate and appear in the box.
 
-Provide instructions and examples for use. Include screenshots as needed.
+Upon answering the prompts the password will generate and appear in the box.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
