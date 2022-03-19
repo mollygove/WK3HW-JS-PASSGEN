@@ -2,12 +2,9 @@
 
 ## Description
 
-This week we are modifing starter code that enables us to generate random passwords based on criteria that the user has selected. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript. It also responds to the users interface and adapts to multiple screen sizes.
-
-The password can include special characters. OWASP Foundation
+This week we are modifing starter code that enables us to generate random passwords based on criteria the user has selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It also responds to the users interface and adapts to multiple screen sizes.
 
 # Usage
-
 User clicks button to generate a password.
 
 After clicking, user is prompted with questions regarding criteria for password:
