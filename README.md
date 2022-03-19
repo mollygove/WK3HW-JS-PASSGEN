@@ -39,3 +39,5 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 Special characters list was used from the OWASP Foundation.
+
+I used https://2u-20.wistia.com/medias/0w91wfpqn8 to help me understand true false expressions.
