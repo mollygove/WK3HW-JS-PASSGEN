@@ -2,7 +2,7 @@
 
 ## Description
 
-This week we are modifing starter code that enables us to generate random passwords based on criteria the user has selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It also responds to the users interface and adapts to multiple screen sizes.
+This week we are modifing starter code that enables us to generate random passwords based on criteria the user has selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. 
 
 # Usage
 * User clicks button to generate a password.
@@ -28,6 +28,15 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Special characters list was used from the OWASP Foundation.
+Worked with classmate Oscar Salgado and senior web developer Derrick Phillips.
 
-I used https://2u-20.wistia.com/medias/0w91wfpqn8 to help me understand true false expressions.
+Special characters list was used from the OWASP Foundation website.
+
+I used the following URLS for understanding and assistance:
+
+ https://2u-20.wistia.com/medias/0w91wfpqn8 
+
+ https://www.codegrepper.com/code-examples/javascript/math.floor+random+number
+
+ https://www.youtube.com/watch?v=duNmhKgtcsI
+
