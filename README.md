@@ -40,3 +40,5 @@ I used the following URLS for understanding and assistance:
 
  https://www.youtube.com/watch?v=duNmhKgtcsI
 
+ https://www.w3schools.com/jsref/jsref_split.asp
+
