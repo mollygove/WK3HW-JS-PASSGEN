@@ -23,7 +23,7 @@ Upon answering the prompts the password will generate and appear in the box.
 This website will allow you to link to my work as well as provide contact details. 
 Click Here: https://mollygove.github.io/WK3HW-JS-PASSGEN/
 
-<img src="./Assets/Images/03-javascript-homework-demo.png alt="Image of Landing Page"> 
+<img src="./Assets/Images/03-javascript-homework-demo.png" alt="Image of Landing Page"> 
     
 ## Credits
 
