@@ -20,11 +20,10 @@ Criteria:
 
 Upon answering the prompts the password will generate and appear in the box.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+This website will allow you to link to my work as well as provide contact details. 
+Click Here: https://mollygove.github.io/WK3HW-JS-PASSGEN/
+    
+    <img src="/Assets/Images/03-javascript-homework-demo.png    alt="Image of Landing Page">
 
 ## Credits
 
